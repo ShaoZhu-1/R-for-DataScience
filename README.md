@@ -2,5 +2,5 @@
 title: "R-for-DataScience"
 author: "薛薇"
 publisher: 电子工业出版社
-recoding by @ShaoZhu-1
+Recoding by @ShaoZhu-1
 ---
